@@ -1,0 +1,17 @@
+SOCKSPort 9050
+SOCKSPort 9060
+SOCKSPort 9070
+SOCKSPort 9080
+SOCKSPort 9090
+SOCKSPort 9100
+SOCKSPort 9110
+SOCKSPort 9120
+
+ControlPort 9051
+ControlPort 9061
+ControlPort 9071
+ControlPort 9081
+ControlPort 9091
+ControlPort 9101
+ControlPort 9111
+ControlPort 9121
